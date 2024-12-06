@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { ethers } from 'ethers';  // Импортируем ethers.js
 import SimpleGridABI from './SimpleGridABI.json';  // Ваш ABI файла контракта
 import './App.css';
